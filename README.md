@@ -24,32 +24,6 @@ Built with MongoDB, Express, React, Node.js, and Bootstrap for styling.
 - API: REST
 - Other: CORS, dotenv
 
----
-
-## Folder Structure
-
-mern-stack/
-│
-├─ backend/
-│   ├─ models/
-│   │   └─ User.js
-│   ├─ routes/
-│   │   └─ userRoutes.js
-│   ├─ server.js
-│   └─ .env
-│
-├─ frontend/
-│   ├─ src/
-│   │   ├─ components/
-│   │   │   ├─ Body.js
-│   │   │   ├─ Header.js
-│   │   │   └─ Footer.js
-│   │   └─ App.js
-│   └─ package.json
-│
-└─ README.md
-
----
 
 ## Setup & Installation
 
